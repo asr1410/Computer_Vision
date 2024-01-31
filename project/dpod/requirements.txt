@@ -1,0 +1,10 @@
+tensorflow-macos
+Keras
+keras-retinanet
+opencv-python
+tqdm
+pandas
+
+
+cd /Users/rawat/Documents/documents/code && source base/bin/activate
+python -u /Users/rawat/Documents/documents/code/computer_vision/project/dpod/object_detector_retinanet/keras_retinanet/bin/train.py csv
